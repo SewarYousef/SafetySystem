@@ -5,4 +5,4 @@ This project was built using three different sensors :
 - Gas Sensor (MQ-2)
 
 # The project Diagram
-<img src=https://github.com/SewarYousef/SafetySystem/blob/main/Diagram.png align="center" height="350" width="400"/>
+<img src=https://github.com/SewarYousef/SafetySystem/blob/main/Diagram.png align="center" height="350" width="450"/>
